@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "lucvanhau",
+    "description": "cha biet"
+  },
+  "data": [
+    {
+      "name": "daoquannew",
+      "author": "haucdt",
+      "path": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/daoquan/plugin.zip",
+      "version": 1,
+      "source": "http://daoquan.vn",
+      "icon": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/daoquan/icon.png",
+      "description": "Đọc truyện trên trang http://daoquan.vn",
+      "type": "novel",
+      "locale": "vi-VN"
+    }
+  ]
+}
