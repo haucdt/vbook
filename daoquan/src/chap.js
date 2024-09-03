@@ -4,7 +4,7 @@ function execute(url) {
         let doc = response.html();
         let htm = doc.select("div.box-chap").html();
         let fix = newfix(htm);
-        return Response.success(htm);
+        return Response.success(fix);
     }
     return null;
 }
