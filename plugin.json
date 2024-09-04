@@ -4,17 +4,17 @@
     "description": "chabiet"
   },
   "data": [
-{
-      "name": "daoquannew1",
-      "author": "haucdt",
-      "path": "https://raw.githubusercontent.com/lucvanhau/vbook/main/daoquan/plugin.zip",
-      "version": 2,
+    {
+      "name": "daoquan",
+      "author": "Moleys",
+      "path": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/daoquan/plugin.zip",
+      "version": 1,
       "source": "http://daoquan.vn",
-      "icon": "https://raw.githubusercontent.com/lucvanhau/vbook/main/daoquan/icon.png",
+      "icon": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/daoquan/icon.png",
       "description": "Đọc truyện trên trang http://daoquan.vn",
       "type": "novel",
       "locale": "vi-VN"
-    },     
+    },
        {
       "name": "daoquannew",
       "author": "haucdt",
