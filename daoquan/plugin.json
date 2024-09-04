@@ -2,7 +2,7 @@
   "metadata": {
     "name": "daoquannew",
     "author": "haucdt",
-    "version": 1.1,
+    "version": 1.2,
     "source": "https://daoquan.vn",
     "regexp": "(www.|m.)?daoquan.vn/doc-truyen/(.*?)",
     "description": "Đọc truyện trên trang https://daoquan.vn",
