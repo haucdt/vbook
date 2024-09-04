@@ -29,9 +29,9 @@ return "lỗi gì đó";
 function newgpt(text){
 if(text){
 
-let aa = text.replace(/\.\n/g, 'aaaaa');
+let aa = text.replace(/\.\n/g, 'zzzzz');
 let bb = aa.replace(/<br>/g, ' ');
-let cc = bb.replace(/aaaaa/g, '.<br>')
+let cc = bb.replace(/zzzzz/g, '.<br>')
 return cc;
 }
 return "lỗi gì đó";
