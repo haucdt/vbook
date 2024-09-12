@@ -13,9 +13,11 @@ let fix = newgpt(htm);
 
 function newgptokfull(text){
 if(text){
-let aa = text.replace(/<br>/g, ' ');
-let bb = aa.replace(/\./g, '.<br>');
-return bb;
+
+let aa = text.replace(/\.\n/g, 'zzzzz');
+let bb = aa.replace(/<br>/g, ' ');
+let cc = bb.replace(/zzzzz/g, '.<br>')
+return cc;
 }
 return "lỗi gì đó";
 
@@ -30,7 +32,7 @@ function newgpt(text){
 if(text){
 
 let aa = text.replace(/\.\n/g, 'zzzzz');
-let bb = aa.replace(/<br>/g, ' ');
+let bb = aa.replace(/<br>/g, '\n');
 let cc = bb.replace(/zzzzz/g, '.<br>')
 return cc;
 }
