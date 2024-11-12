@@ -3,6 +3,7 @@
     "author": "lucvanhau",
     "description": "chabiet"
   },
+  "data": [
     {
       "name": "Bạch Ngọc Sách2",
       "author": "vBook",
@@ -14,7 +15,7 @@
       "type": "novel",
       "locale": "vi_VN"
     },
-  "data": [
+
     {
       "name": "daoquan",
       "author": "Moleys",
