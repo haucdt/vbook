@@ -15,8 +15,7 @@
       "type": "novel",
       "locale": "vi_VN"
     },
-
-    {
+    	{
       "name": "daoquan",
       "author": "Moleys",
       "path": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/daoquan/plugin.zip",
@@ -37,6 +36,6 @@
       "description": "Đọc truyện trên trang http://daoquan.vn",
       "type": "novel",
       "locale": "vi-VN"
-    }     
+    }     
   ]
 }
